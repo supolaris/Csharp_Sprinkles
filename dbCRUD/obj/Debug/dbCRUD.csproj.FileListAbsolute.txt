@@ -1,0 +1,10 @@
+C:\work\coding\C#\dbCRUD\bin\Debug\dbCRUD.exe.config
+C:\work\coding\C#\dbCRUD\bin\Debug\dbCRUD.exe
+C:\work\coding\C#\dbCRUD\bin\Debug\dbCRUD.pdb
+C:\work\coding\C#\dbCRUD\obj\Debug\dbCRUD.csproj.AssemblyReference.cache
+C:\work\coding\C#\dbCRUD\obj\Debug\dbCRUD.Form1.resources
+C:\work\coding\C#\dbCRUD\obj\Debug\dbCRUD.Properties.Resources.resources
+C:\work\coding\C#\dbCRUD\obj\Debug\dbCRUD.csproj.GenerateResource.cache
+C:\work\coding\C#\dbCRUD\obj\Debug\dbCRUD.csproj.CoreCompileInputs.cache
+C:\work\coding\C#\dbCRUD\obj\Debug\dbCRUD.exe
+C:\work\coding\C#\dbCRUD\obj\Debug\dbCRUD.pdb
